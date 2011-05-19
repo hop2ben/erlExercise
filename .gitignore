@@ -1,0 +1,12 @@
+*.beam
+*~
+*.orig
+.*.swp
+rt.work
+.hgignore
+.eunit
+deps/
+deps/*
+.DS_Store
+.AppleDouble
+.AppleDouble/*
